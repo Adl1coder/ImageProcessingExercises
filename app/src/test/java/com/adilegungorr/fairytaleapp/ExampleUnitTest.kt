@@ -1,4 +1,4 @@
-package com.example.fairytaleapp
+package com.adilegungorr.fairytaleapp
 
 import org.junit.Test
 

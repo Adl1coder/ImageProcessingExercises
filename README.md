@@ -1,15 +1,5 @@
-# Resim Histogram Eşitleme
+# Görüntü İşleme
 
-Bu projede, OpenCV ve matplotlib kütüphanelerini kullanarak bir resmin histogramını eşitleme işlemi yapılmaktadır.
+Bu depo, çeşitli kütüphanaler kullanılarak histogram eşitleme, görüntü işleme ve diğer  konularda yapılan egzersizleri içeriyor.
 
-## Kullanım
-
-- `resim.jpg` dosyasını kullanarak denemeler yapabilirsiniz.
-- Kodu çalıştırarak resmin eşitlenmiş histogramını görselleştirebilirsiniz.
-
-## Gereksinimler
-
-- Python 3.x
-- OpenCV
-- matplotlib
 
